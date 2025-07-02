@@ -1,7 +1,8 @@
 #include <stdio.h>
+#include "terminal.h"
 
 int main(){
-	printf("G.O.A.T");
+	enter_raw_mode(); // Does something
 
-	return 0;
+	return 0; 
 }
