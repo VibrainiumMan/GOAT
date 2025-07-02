@@ -3,5 +3,5 @@
 int main(){
 	printf("G.O.A.T");
 
-	return 0
+	return 0;
 }
